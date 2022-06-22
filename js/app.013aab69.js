@@ -3558,8 +3558,8 @@
 			}]
 		}),
 		va = (n("841c"), n("7db0"), n("a15b"), {
-			title: "LittleYang0531",
-			subtitle: "C++编程萌新一枚",
+			title: "鹭庭雨",
+			subtitle: "若知是梦何须醒 不必真如一相会",
 			username: "Ayakasiki",
 			repository: "blog",
 			token: ["ghp_5nq89YOdTL7VRloqvrJ", "vaWhLNGMncp2MAuCa"],
