@@ -56,7 +56,7 @@ const Side: React.FC<SideProps> = () => {
           </Link>
         </nav>
         <div className="flex flex-col justify-end pl-5 pb-3 w-2/3">
-          <h3 className="title text-6xl tracking-wider">蟬時雨</h3>
+          <h3 className="title text-6xl tracking-wider">鹭庭雨</h3>
           <span className="subtitle pt-2 pb-8 pl-1 text-xl tracking-wider">蝉鸣如雨 花宵道中</span>
           <Poetry />
         </div>
